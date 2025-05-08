@@ -2,4 +2,4 @@
 
 See included Jupyter Notebook for reproduction.
 
-Trained models can be found in the models folder.
+Unfortunately, the pretrained model files were too large to be hosted on GitHub.
